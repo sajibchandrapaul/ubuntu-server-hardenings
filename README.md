@@ -1,4 +1,4 @@
-# Ubuntu Server Hardening Project
+# Ubuntu Server Essentials Project
 
 This project demonstrates my practical learning and implementation of Ubuntu Server administration and security hardening techniques.
 
